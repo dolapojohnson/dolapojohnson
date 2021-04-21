@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @dolapojohnson
+- 👀 I’m interested in web development and data science
+- 🌱 I’m currently learning React and Nodejs for web development
+- 💞️ I’m looking to collaborate on any web application
+- 📫 Reach me via dolapojohnson99@gmail.com
+
+<!---
+dolapojohnson/dolapojohnson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
