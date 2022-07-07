@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dolapojohnson
-- 👀 I’m interested in web development 
-- 🌱 I write React and Nodejs for web development
+- 🌱 I write React, Angular and Nodejs for web development
 - 💞️ I’m looking to collaborate on any web application
 - 📫 Reach me via dolapojohnson99@gmail.com
 
