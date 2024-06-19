@@ -2,7 +2,7 @@
 
 <!--- [![Website Badge](https://img.shields.io/badge/-bolajiayodeji.com-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://bolajiayodeji.com)]([https://bolajiayodeji.com](https://portfolio-d1cdc.web.app/)) [![Linkedin Badge](https://img.shields.io/badge/-iambolajiayo-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iambolajiayo)](https://www.linkedin.com/in/iambolajiayo) [![Twitter Badge](https://img.shields.io/badge/-@iambolajiayo-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/iambolajiayo)](https://twitter.com/iambolajiayo) -->
 
-I'm a Software Engineer, Techincal Writer, and DevOps Engineer who currently works as a Frontend Engineer at [Afripoint Group](https://afripointgroup.com). I'm passionate about sharing knowledge, documentation, and others. I create technical content (on my [Medium](https://medium.com/@dolapojohnson99), build useful [open-source projects](https://github.com/dolapojohnson), volunteers at Teens Launch Africa, build technical communities...
+I'm a Software Engineer, Techincal Writer, and DevOps Engineer who currently works as a Frontend Engineer at [Afripoint Group](https://afripointgroup.com). I'm passionate about sharing knowledge, documentation, and others. I create technical content (on my [Medium](https://medium.com/@dolapojohnson99), contribute to useful [open-source projects](https://github.com/dolapojohnson), volunteers at Teens Launch Africa, build technical communities...
 
 **Here's a quick summary about me**:
 
